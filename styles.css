@@ -1,0 +1,55 @@
+/* add your CSS here */
+body {
+  padding: 20px;
+}
+
+#container {
+	border: 1px solid green;
+  padding: 8px;
+}
+
+
+.animal-info {
+  border : 1px solid green;
+  width: 300px;
+  padding: 10px;
+  background-color: gray;
+}
+
+.back {
+
+}
+.myimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
+.myimage {
+  border-top: 3px dashed #bbb;
+  border-bottom: 3px dashed #bbb;
+}
+
+.aboutpanda{
+	text-align: center;
+	background-color: lightgreen;
+}
+
+.text {
+	text-align: center;
+}
+
+.detail {
+	 font-style: italic ;
+  border : 1px solid green;
+  padding: 1px;
+}
+
+li {
+  list-style: none;
+}
+
+span { 
+  font-weight:bold; 
+}
